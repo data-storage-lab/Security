@@ -1,5 +1,4 @@
 # Security
--
 
 ## Ransomware Detection
 1. [RøB: Ransomware over Modern Web Browsers](https://www.usenix.org/system/files/usenixsecurity23-oz.pdf) [USENIX Security'23]

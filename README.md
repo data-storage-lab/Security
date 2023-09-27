@@ -30,4 +30,3 @@ at a large academic institution](https://www.usenix.org/system/files/conference/
 1. [Cross Container Attacks: The Bewildered eBPF on Clouds](https://www.usenix.org/system/files/usenixsecurity23-he.pdf) [USENIX Security'23]
 2. [Electrode: Accelerating Distributed Protocols with eBPF](https://www.usenix.org/conference/nsdi23/presentation/zhou) [NSDI'23]
 3. [XRP: In-Kernel Storage Functions with eBPF](https://www.usenix.org/conference/osdi22/presentation/zhong) [OSDI'22]
-3. 

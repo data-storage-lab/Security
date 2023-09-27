@@ -25,3 +25,9 @@ at a large academic institution](https://www.usenix.org/system/files/conference/
 9. [Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem](https://www.ndss-symposium.org/ndss-paper/prevalence-and-impact-of-low-entropy-packing-schemes-in-the-malware-ecosystem/) [NDSS'20]
 10. [When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features](https://www.ndss-symposium.org/ndss-paper/when-malware-is-packin-heat-limits-of-machine-learning-classifiers-based-on-static-analysis-features/) [NDSS'20]
 11. [ExSpectre: Hiding Malware in Speculative Execution](https://www.ndss-symposium.org/ndss-paper/exspectre-hiding-malware-in-speculative-execution/) [NDSS'19]
+
+## eBPF
+1. [Cross Container Attacks: The Bewildered eBPF on Clouds](https://www.usenix.org/system/files/usenixsecurity23-he.pdf) [USENIX Security'23]
+2. [Electrode: Accelerating Distributed Protocols with eBPF](https://www.usenix.org/conference/nsdi23/presentation/zhou) [NSDI'23]
+3. [XRP: In-Kernel Storage Functions with eBPF](https://www.usenix.org/conference/osdi22/presentation/zhong) [OSDI'22]
+3. 

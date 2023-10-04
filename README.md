@@ -11,7 +11,8 @@ at a large academic institution](https://www.usenix.org/system/files/conference/
 7. [Protecting against Ransomware: A New Line of Research or Restating Classic Ideas?](https://ieeexplore.ieee.org/document/8395120) [IEEE Symposium on Security and Privacy'18]
 8. [A Storage-level Detection Mechanism against Crypto-Ransomware](https://dl.acm.org/doi/10.1145/3243734.3278491) [CCS'18]
 9. [Tracking Ransomware End-to-end](https://ieeexplore.ieee.org/document/8418627) [IEEE Symposium on Security and Privacy'18]
-10. [UNVEIL: A Large-Scale, Automated Approach to Detecting Ransomware](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kharraz.pdf) [USENIX Security'16]
+10. [Ransomware Prevention usng Application Authentication-Based File Access Control](https://dl.acm.org/doi/pdf/10.1145/3167132.3167304) [Symposium on Applied Computing SAC'18]
+11. [UNVEIL: A Large-Scale, Automated Approach to Detecting Ransomware](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kharraz.pdf) [USENIX Security'16]
 
 ## Malware Detection
 1. [Humans vs. Machines in Malware Classification](https://www.usenix.org/conference/usenixsecurity23/presentation/aonzo) [USENIX Security '23]

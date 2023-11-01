@@ -64,14 +64,14 @@
 20. [Classification of Malware by Using Structural Entropy on Convolutional Neural Networks](https://aaai.org/papers/11409-classification-of-malware-by-using-structural-entropy-on-convolutional-neural-networks/) [AAAI'18]
 21. [Monotonic models for real-time dynamic malware detection](https://openreview.net/forum?id=rkjatuyvM) [ICLR'18]
 
-## Ransomware and Malware database/datasets
+## Ransomware and Malware Database/Datasets
 1. [OPEN REPOSITORY FOR THE EVALUATION OF RANSOMWARE DETECTION TOOLS](https://ieee-dataport.org/open-access/open-repository-evaluation-ransomware-detection-tools) [Ransomware]
 2. [MalwareBazaar](https://bazaar.abuse.ch/) [Malware]
 3. [National Vulnerability Database (NVD)](https://nvd.nist.gov/) [Ransomware and Malware]
 4. [Android Ransomware Detection](https://www.kaggle.com/datasets/subhajournal/android-ransomware-detection) [Ransomware]
 5. [Ransomware PE Header Feature Dataset](https://data.mendeley.com/datasets/p3v94dft2y/2) [Ransomware]
 6. [Dataset of "Extinguishing Ransomware - A Hybrid Approach to Android Ransomware Detection"](https://zenodo.org/records/1420449) [Ransomware]
-7. [BitcoinHeistRansomwareAddressDataset](https://archive.ics.uci.edu/dataset/526/bitcoinheistransomwareaddressdataset) [Ransomware]
+7. [Bitcoin Heist Ransomware Address Dataset](https://archive.ics.uci.edu/dataset/526/bitcoinheistransomwareaddressdataset) [Ransomware]
 8. [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets#network-traffic) [Ransomware and Malware]
    
 

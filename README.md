@@ -90,17 +90,19 @@
 
 
 ## Ransomware and Malware Database/Datasets
-1. [VirusTotal](https://www.virustotal.com/gui/home/upload) [Ransomware and Malware]
-2. [OPEN REPOSITORY FOR THE EVALUATION OF RANSOMWARE DETECTION TOOLS](https://ieee-dataport.org/open-access/open-repository-evaluation-ransomware-detection-tools) [Ransomware]
-3. [MalwareBazaar](https://bazaar.abuse.ch/) [Malware]
-4. [National Vulnerability Database (NVD)](https://nvd.nist.gov/) [Ransomware and Malware]
-5. [Android Ransomware Detection](https://www.kaggle.com/datasets/subhajournal/android-ransomware-detection) [Ransomware]
-6. [Ransomware PE Header Feature Dataset](https://data.mendeley.com/datasets/p3v94dft2y/2) [Ransomware]
-7. [Dataset of "Extinguishing Ransomware - A Hybrid Approach to Android Ransomware Detection"](https://zenodo.org/records/1420449) [Ransomware]
-8. [Bitcoin Heist Ransomware Address Dataset](https://archive.ics.uci.edu/dataset/526/bitcoinheistransomwareaddressdataset) [Ransomware]
-9. [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets#network-traffic) [Ransomware and Malware]
-10. [Ransomware PCAP repository](http://dataset.tlm.unavarra.es/ransomware/) [Ransomware]
-11. [HelDroid](https://github.com/necst/heldroid)[Android ransomware]
+1. [RanSAP: An Open Dataset of Ransomware Storage Access Patterns](https://github.com/manabu-hirano/RanSAP) [Ransomware]
+2. [Ransomware in the Bitcoin Ecosystem | Dataset Extraction](https://github.com/behas/ransomware-dataset) [Ransomware]
+3. [VirusTotal](https://www.virustotal.com/gui/home/upload) [Ransomware and Malware]
+4. [OPEN REPOSITORY FOR THE EVALUATION OF RANSOMWARE DETECTION TOOLS](https://ieee-dataport.org/open-access/open-repository-evaluation-ransomware-detection-tools) [Ransomware]
+5. [MalwareBazaar](https://bazaar.abuse.ch/) [Malware]
+6. [National Vulnerability Database (NVD)](https://nvd.nist.gov/) [Ransomware and Malware]
+7. [Android Ransomware Detection](https://www.kaggle.com/datasets/subhajournal/android-ransomware-detection) [Ransomware]
+8. [Ransomware PE Header Feature Dataset](https://data.mendeley.com/datasets/p3v94dft2y/2) [Ransomware]
+9. [Dataset of "Extinguishing Ransomware - A Hybrid Approach to Android Ransomware Detection"](https://zenodo.org/records/1420449) [Ransomware]
+10. [Bitcoin Heist Ransomware Address Dataset](https://archive.ics.uci.edu/dataset/526/bitcoinheistransomwareaddressdataset) [Ransomware]
+11. [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets#network-traffic) [Ransomware and Malware]
+12. [Ransomware PCAP repository](http://dataset.tlm.unavarra.es/ransomware/) [Ransomware]
+13. [HelDroid](https://github.com/necst/heldroid)[Android ransomware]
    
 
 ## eBPF

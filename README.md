@@ -105,6 +105,10 @@
 12. [Ransomware PCAP repository](http://dataset.tlm.unavarra.es/ransomware/) [Ransomware]
 13. [HelDroid](https://github.com/necst/heldroid) [Android ransomware]
 14. [vx-underground](https://www.vx-underground.org/#E:/root) [APT Attack / Malware]
+15. [DikeDataset](https://github.com/iosifache/DikeDataset) [Malware]
+16. [PE Malware Machine Learning Dataset](https://practicalsecurityanalytics.com/pe-malware-machine-learning-dataset/) [Malware]
+17. [Malware Detection PE-Based Analysis Using Deep Learning Algorithm Dataset](https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_Deep_Learning_Algorithm_Dataset/6635642) [Malware]
+18. [virusshare](https://virusshare.com/) [Malware]
    
 
 ## eBPF

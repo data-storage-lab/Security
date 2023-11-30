@@ -110,6 +110,11 @@
 16. [PE Malware Machine Learning Dataset](https://practicalsecurityanalytics.com/pe-malware-machine-learning-dataset/) [Malware]
 17. [Malware Detection PE-Based Analysis Using Deep Learning Algorithm Dataset](https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_Deep_Learning_Algorithm_Dataset/6635642) [Malware]
 18. [virusshare](https://virusshare.com/) [Malware]
+
+## Network Traffic Datasets (Malicious Traffic, DDoS Attack, etc)
+1. [DDoS Evaluation Dataset (CIC-DDoS2019)](https://www.unb.ca/cic/datasets/ddos-2019.html) [DDoS Attack]
+2. [MAWI Working Group Traffic Archive](https://mawi.wide.ad.jp/mawi/) [Malicious Traffic]
+3. [CSE-CIC-IDS2018 on AWS](https://www.unb.ca/cic/datasets/ids-2018.html) [Malicious Traffic]
    
 
 ## eBPF

@@ -110,6 +110,7 @@
 16. [PE Malware Machine Learning Dataset](https://practicalsecurityanalytics.com/pe-malware-machine-learning-dataset/) [Malware]
 17. [Malware Detection PE-Based Analysis Using Deep Learning Algorithm Dataset](https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_Deep_Learning_Algorithm_Dataset/6635642) [Malware]
 18. [virusshare](https://virusshare.com/) [Malware]
+19. [SHIELDFS](http://shieldfs.necst.it/) [A Self-healing, Ransomware-aware Filesystem]
 
 ## Network Traffic Datasets (Malicious Traffic, DDoS Attack, etc)
 1. [DDoS Evaluation Dataset (CIC-DDoS2019)](https://www.unb.ca/cic/datasets/ddos-2019.html) [DDoS Attack]

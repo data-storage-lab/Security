@@ -115,6 +115,12 @@
 17. [Malware Detection PE-Based Analysis Using Deep Learning Algorithm Dataset](https://figshare.com/articles/dataset/Malware_Detection_PE-Based_Analysis_Using_Deep_Learning_Algorithm_Dataset/6635642) [Malware]
 18. [virusshare](https://virusshare.com/) [Malware]
 19. [SHIELDFS](http://shieldfs.necst.it/) [A Self-healing, Ransomware-aware Filesystem]
+20. [Ransomware Attacks](https://www.kaggle.com/datasets/joebeachcapital/ransomware-attacks) [Ransomware Datasets]
+21. [Ransomware Dataset](https://rissgroup.org/ransomware-dataset/)
+22. [ISOT Ransomware Detection Dataset](https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/botnet-and-ransomware-detection-datasets/)
+23. [BODMAS Malware Dataset](https://whyisyoung.github.io/BODMAS/) [Malware]
+24. [Maldatabase](https://maldatabase.com/) (Malware)
+25. [vizsec](https://vizsec.org/data/) (Malware / APT)
 
 ## Network Traffic Datasets (Malicious Traffic, DDoS Attack, etc)
 1. [DDoS Evaluation Dataset (CIC-DDoS2019)](https://www.unb.ca/cic/datasets/ddos-2019.html) [DDoS Attack]

@@ -121,6 +121,7 @@
 23. [BODMAS Malware Dataset](https://whyisyoung.github.io/BODMAS/) [Malware]
 24. [Maldatabase](https://maldatabase.com/) (Malware)
 25. [vizsec](https://vizsec.org/data/) (Malware / APT)
+26. [Machine Learning-Based NIDS Datasets](https://staff.itee.uq.edu.au/marius/NIDS_datasets/)
 
 ## Network Traffic Datasets (Malicious Traffic, DDoS Attack, etc)
 1. [DDoS Evaluation Dataset (CIC-DDoS2019)](https://www.unb.ca/cic/datasets/ddos-2019.html) [DDoS Attack]

@@ -66,6 +66,9 @@
 63. [UNVEIL: A Large-Scale, Automated Approach to Detecting Ransomware](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kharraz.pdf) [USENIX Security'16]
 64. [The Effective Ransomware Prevention Technique Using Process Monitoring on Android Platform](https://www.hindawi.com/journals/misy/2016/2946735/) [Mobile Information Systems'16]
 65. [Ransomware Steals Your Phone. Formal Methods Rescue It](https://link.springer.com/chapter/10.1007/978-3-319-39570-8_14) [International Conference on Formal Techniques for Distributed Objects, Components, and Systems 2016]
+66. [MTFS: a Moving Target Defense-Enabled File System for Malware Mitigation](https://ieeexplore.ieee.org/document/10639803) [2024 IEEE 49th Conference on Local Computer Networks (LCN)]
+67. [CARDR: DRAM Cache Assisted Ransomware Detection and Recovery in SSDs](https://dl.acm.org/doi/10.1145/3695794.3695804) [MEMSYS '24]
+
 
 ## Malware Detection
 1. [Certified Robustness of Static Deep Learning-based Malware Detectors against Patch and Append Attacks](https://dl.acm.org/doi/10.1145/3605764.3623914) [AISec'23]

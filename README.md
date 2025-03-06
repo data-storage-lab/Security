@@ -154,3 +154,4 @@
 18. [bpfbox: Simple Precise Process Confinement with eBPF](https://dl.acm.org/doi/pdf/10.1145/3411495.3421358) [CCSW'20]
 19. [Simple and precise static analysis of untrusted Linux kernel extensions](https://dl.acm.org/doi/10.1145/3314221.3314590) [PLDI'19]
 20. [PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04A-1_Song_paper.pdf) [NDSS'19]
+21. [Leveraging eBPF and AI for Ransomware Nose Out](https://arxiv.org/abs/2406.14020) [arXiv'24]

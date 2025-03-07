@@ -68,6 +68,7 @@
 65. [Ransomware Steals Your Phone. Formal Methods Rescue It](https://link.springer.com/chapter/10.1007/978-3-319-39570-8_14) [International Conference on Formal Techniques for Distributed Objects, Components, and Systems 2016]
 66. [MTFS: a Moving Target Defense-Enabled File System for Malware Mitigation](https://ieeexplore.ieee.org/document/10639803) [2024 IEEE 49th Conference on Local Computer Networks (LCN)]
 67. [CARDR: DRAM Cache Assisted Ransomware Detection and Recovery in SSDs](https://dl.acm.org/doi/10.1145/3695794.3695804) [MEMSYS '24]
+68. [Ransom Access Memories: Achieving Practical Ransomware Protection in Cloud with DeftPunk](https://www.usenix.org/system/files/osdi24-wang-zhongyu.pdf) [OSDI'24]
 
 
 ## Malware Detection
